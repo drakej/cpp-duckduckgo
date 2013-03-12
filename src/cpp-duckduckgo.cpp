@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : cpp-duckduckgo.cpp
-// Author      : Jonathan Drake <drakej@drakej.com>
+// Author      : Jonathan Drake
 // Version     : 1.awesome
 // License	   : GPLv3
 // Description : Example of DuckDuckGo API Usage
