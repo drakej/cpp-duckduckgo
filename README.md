@@ -24,9 +24,3 @@ Documentation
 -------------
 
 Coming Soon
-
-Comments?
----------
-
-I'm sometimes at #duckduckgo @ irc.freenode.net but if not, feel free to email me
-at drakej@drakej.com
